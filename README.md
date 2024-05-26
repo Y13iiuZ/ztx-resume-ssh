@@ -2,7 +2,7 @@
 
 > 这是我的简历
 
- 「预览」 (https://jirengu-inc.github.io/animating-resume/public/)
+ 「预览」 (<https://y13iiuz.github.io/ztx-resume-ssh/public/>)
 
 ## 部署方法
 
